@@ -10,10 +10,6 @@
 
 - [x] **Tableau** - 
 
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
-
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
-
 ![MakeoverMonday](visuals/WorkFromHome.png)  
 
 - Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
@@ -101,4 +97,5 @@
 ![Dashboard](visuals/excel/ScenarioManager.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
