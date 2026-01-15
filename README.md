@@ -47,12 +47,9 @@
 
 
 
-- World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
-
 ![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
 
 
-- London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link 
 
 ![London Bus Safety](visuals/LondonBusSafety.png)
 
@@ -89,6 +86,7 @@
 ![Dashboard](visuals/excel/ScenarioManager.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
