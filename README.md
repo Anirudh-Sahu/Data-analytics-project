@@ -1,12 +1,47 @@
-# Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
+# Data Analytics Project – Sales Analysis
 
+## 📖 Project Overview
+This project focuses on analyzing sales data to identify trends, customer behavior,
+and business insights using Python and data analytics techniques.
 
+## 🎯 Objective
+- Analyze sales performance
+- Identify top-performing products and regions
+- Provide data-driven business insights
 
-- [x] **SQL & Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
+## 📂 Dataset
+- Source: Company sales data (sample / open-source)
+- Format: CSV
+- Records: ~10,000 rows
 
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Excel
+- GitHub
 
+## 🔍 Key Analysis Performed
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Sales trend analysis
+- Product & regional performance analysis
+
+## 📊 Key Insights
+- Sales increased by X% during Q3
+- Product A generated the highest revenue
+- Region B had the highest customer growth
+
+## 📈 Visualizations
+Screenshots available in the `visuals/` folder.
+
+## ▶️ How to Run This Project
+1. Clone the repository
+2. Install required libraries
+3. Run the Jupyter notebook
+
+## 👤 Author
+Anirudh
+Aspiring Data Analyst
 
 - [x] **Tableau** - 
 
@@ -85,7 +120,11 @@
 
 ![Dashboard](visuals/excel/ScenarioManager.png)
 
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
